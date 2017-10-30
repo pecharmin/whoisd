@@ -12,9 +12,9 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/openprovider/whoisd/client"
-	"github.com/openprovider/whoisd/config"
-	"github.com/openprovider/whoisd/storage"
+	"github.com/pecharmin/whoisd/client"
+	"github.com/pecharmin/whoisd/config"
+	"github.com/pecharmin/whoisd/storage"
 	"github.com/takama/daemon"
 )
 

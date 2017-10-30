@@ -11,7 +11,7 @@ import (
 	"flag"
 	"os"
 
-	"github.com/openprovider/whoisd/mapper"
+	"github.com/pecharmin/whoisd/mapper"
 )
 
 // Default values: path to config file, host, port, etc
